@@ -19,7 +19,7 @@ This is Prologue, a simple, single page responsive site template from [HTML5 UP]
 * Automatic search engine optimization (SEO) **meta tags** based on info you provide in `_config.yml` and frontmatter
 * **Google Analytics** built-in; just put your [Tracking ID](https://support.google.com/analytics/answer/1008080?hl=en) in `_config.yml` as `google_analytics`
 * Custom **404 page** (called 404.html; to activate, move it to your project directory).
-
+#wuguoqing
 # Installation
 
 There are two ways to get started (choose one):
