@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "gentlesnow.github.io/"
-description:      "I walk in the rain."
+title:            "gentlesnow"
+description:      "青春的奔跑不在于瞬间的爆发，而在与不断的坚持。"
 url:              https://gentlesnow.github.io # Site url, without a slash at the end.
 signoff:          "gentlesnow" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
